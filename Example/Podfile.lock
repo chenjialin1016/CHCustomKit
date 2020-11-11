@@ -1,16 +1,21 @@
 PODS:
-  - CHCustomKit (0.0.2)
+  - CHCustomKit (0.1.0)
 
 DEPENDENCIES:
-  - CHCustomKit (from `../`)
+  - CHCustomKit (from `https://github.com/chenjialin1016/CHCustomKit.git`)
 
 EXTERNAL SOURCES:
   CHCustomKit:
-    :path: "../"
+    :git: https://github.com/chenjialin1016/CHCustomKit.git
+
+CHECKOUT OPTIONS:
+  CHCustomKit:
+    :commit: 71275f3d0b6b883ae330c2ecd0f6d5cb743033d8
+    :git: https://github.com/chenjialin1016/CHCustomKit.git
 
 SPEC CHECKSUMS:
-  CHCustomKit: abf2a28c57d1b2316f146d8a5718bc68ac164d85
+  CHCustomKit: 5e4a437dabc83ae901241072a499f1228e3fdab4
 
-PODFILE CHECKSUM: 3302fa169a0973e76bfb466ca1be9d9bcae55d76
+PODFILE CHECKSUM: 1f1c8b1464f813c8dac526c5b5206d40cc2a834f
 
 COCOAPODS: 1.10.0

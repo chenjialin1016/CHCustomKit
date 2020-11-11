@@ -3,7 +3,8 @@ use_frameworks!
 platform :ios, '8.0'
 
 target 'CHCustomKit_Example' do
-  pod 'CHCustomKit', :path => '../'
+#  pod 'CHCustomKit', :path => '../'
+    pod 'CHCustomKit', :git => 'https://github.com/chenjialin1016/CHCustomKit.git'
 
   target 'CHCustomKit_Tests' do
     inherit! :search_paths
