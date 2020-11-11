@@ -1,0 +1,6 @@
+framework module Pods_CHCustomKit_Tests {
+  umbrella header "Pods-CHCustomKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

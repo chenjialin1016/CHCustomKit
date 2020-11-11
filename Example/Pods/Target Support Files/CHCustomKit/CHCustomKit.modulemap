@@ -1,0 +1,6 @@
+framework module CHCustomKit {
+  umbrella header "CHCustomKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

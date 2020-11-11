@@ -1,0 +1,16 @@
+PODS:
+  - CHCustomKit (0.0.2)
+
+DEPENDENCIES:
+  - CHCustomKit (from `../`)
+
+EXTERNAL SOURCES:
+  CHCustomKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CHCustomKit: abf2a28c57d1b2316f146d8a5718bc68ac164d85
+
+PODFILE CHECKSUM: 3302fa169a0973e76bfb466ca1be9d9bcae55d76
+
+COCOAPODS: 1.10.0
